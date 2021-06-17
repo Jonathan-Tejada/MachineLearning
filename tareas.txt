@@ -1,0 +1,7 @@
+actividad                   descripcion            id           status
+traduccion libro capitulo:  4.1                    12
+traduccion librerias:       def evaluate_loss      12
+                            def download           12
+                            def download_extract   12
+                            def download_all       12
+Diapositivas                Multilayer Perceptrons 1,2,12
